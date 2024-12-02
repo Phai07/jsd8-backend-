@@ -27,7 +27,9 @@ app.use(express.json());
 //   the list of allowed origins
 const allowedOrigins = [
   "https://frontend-admin-indol.vercel.app", // For Admin - fn
+  "https://frontend-admin-phais-projects-c8bdefae.vercel.app", // For Admin - fn
   "https://frontend-user-cyan.vercel.app",  // For User- fn
+  "https://frontend-user-phais-projects-c8bdefae.vercel.app",  // For User- fn
   "http://localhost:5172", // For local development
   "http://localhost:5173", // For local development
 
